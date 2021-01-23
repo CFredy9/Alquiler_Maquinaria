@@ -1,4 +1,1 @@
-Comparte Ride
-=============
-
-Group-bounded, invite-only, carpooling platform
+Este es el proyecto Alquiler_Maquinaria
